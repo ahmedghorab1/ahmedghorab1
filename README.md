@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahmedghorab1
 - 👀 I’m interested in Software Engineering and Web Development
-- 🌱 I’m currently learning Front End Web Development using React.js
+- 🌱 Currently I'm working as Front-End Software Engineer using React.js
 - 📫 Reach me at ah.ghorab98@gmail.com
 
 <!---
